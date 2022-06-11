@@ -1,0 +1,30 @@
+.main-footer{
+    color: white;
+    background-color: #1E86C0;
+    position: -ms-page;
+    width: 100%;
+}
+
+.container{
+    color: white;
+    background-color: #1E86C0;
+    width: 100%;
+}
+
+.icons{
+    background-color: white;
+    color: white;
+}
+.credits{
+    width: 100%;
+    background-color: #C53E3E;
+    color: white;
+    text-align: center;
+}
+
+.emailbtn{
+    border-radius: 8px;
+    background-color: #C53E3E;
+    color: white;
+    
+}
